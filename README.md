@@ -89,7 +89,7 @@ La carpeta `/hardware_3d/` contiene los 3 archivos `.stl` necesarios para imprim
   <em>Simulador en funcionamiento</em>
 </p>
 <p align="center">
-  <img src="assets/circuito_interno.jpg" alt="Circuito interno del simulador con el Raspberry Pi Pico" width="500">
+  <img src="assets/circuito_interno.jpeg" alt="Circuito interno del simulador con el Raspberry Pi Pico" width="500">
   <br>
   <em>Circuito interno (Raspberry Pi Pico)</em>
 </p>
