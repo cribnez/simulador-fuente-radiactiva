@@ -79,12 +79,12 @@ La carpeta `/hardware_3d/` contiene los 3 archivos `.stl` necesarios para imprim
 ## 📸 Galería del Proyecto
 
 <p align="center">
-  <img src="assets/gui_aplicacion.png" alt="Captura de la GUI de escritorio en PyQt5" width="700">
+  <img src="assets/Ventana_Principal.jpeg" alt="Captura de la GUI de escritorio en PyQt5" width="700">
   <br>
   <em>Interfaz gráfica de control (PyQt5)</em>
 </p>
 <p align="center">
-  <img src="assets/simulador_en_accion.jpg" alt="Simulador de Fuente Radiactiva en funcionamiento" width="700">
+  <img src="assets/Valores_del_Simulador.jpeg" alt="Simulador de Fuente Radiactiva en funcionamiento" width="700">
   <br>
   <em>Simulador en funcionamiento</em>
 </p>
@@ -93,8 +93,4 @@ La carpeta `/hardware_3d/` contiene los 3 archivos `.stl` necesarios para imprim
   <br>
   <em>Circuito interno (Raspberry Pi Pico)</em>
 </p>
-<p align="center">
-  <img src="assets/carcasa_impresa.jpg" alt="Componentes de la carcasa impresos en 3D" width="500">
-  <br>
-  <em>Componentes de la carcasa 3D</em>
-</p>
+
