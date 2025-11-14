@@ -10,10 +10,6 @@ La enseñanza de la física nuclear se ve limitada por los desafíos logísticos
 
 El núcleo es un **Raspberry Pi Pico** que controla la intensidad de un LED mediante PWM, programado para disminuir según la ley de decaimiento exponencial. La **aplicación de escritorio** permite al usuario seleccionar diferentes isótopos (como Tc-99m, I-131, Co-60) y escalas de tiempo, graficando en tiempo real la actividad teórica frente a la actividad simulada por el dispositivo.
 
-<p align="center">
-  <img src="assets/simulador_en_accion.jpg" alt="Simulador de Fuente Radiactiva en funcionamiento" width="700">
-</p>
-
 ## 📂 Estructura del Repositorio
 
 * `/gui_desktop/`: Contiene la aplicación de escritorio (GUI) desarrollada en Python y PyQt5. Esta es la que se ejecuta en la PC.
@@ -40,10 +36,6 @@ Este proyecto tiene dos partes: el **Firmware (Pico)** y la **GUI (PC)**.
 1.  Asegúrate de tener [MicroPython flasheado](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html) en tu Raspberry Pi Pico.
 2.  Copia el archivo `firmware_pico/main.py` (y cualquier otro archivo .py de esa carpeta) a la memoria interna del Pico.
 3.  Conecta el hardware (LED, sensor) a los pines GPIO correspondientes como se indica en el código del firmware.
-
-<p align="center">
-  <img src="assets/circuito_interno.jpg" alt="Circuito interno del simulador con el Raspberry Pi Pico" width="500">
-</p>
 
 ### 2. GUI de Escritorio (PC)
 
@@ -82,9 +74,27 @@ La carpeta `/hardware_3d/` contiene los 3 archivos `.stl` necesarios para imprim
 * `taba_base.stl`
 * `tapa_arriba.stl`
 
-<p align="center">
-  <img src="assets/carcasa_impresa.jpg" alt="Componentes de la carcasa impresos en 3D" width="500">
-</p>
-
 ---
 
+## 📸 Galería del Proyecto
+
+<p align="center">
+  <img src="assets/gui_aplicacion.png" alt="Captura de la GUI de escritorio en PyQt5" width="700">
+  <br>
+  <em>Interfaz gráfica de control (PyQt5)</em>
+</p>
+<p align="center">
+  <img src="assets/simulador_en_accion.jpg" alt="Simulador de Fuente Radiactiva en funcionamiento" width="700">
+  <br>
+  <em>Simulador en funcionamiento</em>
+</p>
+<p align="center">
+  <img src="assets/circuito_interno.jpg" alt="Circuito interno del simulador con el Raspberry Pi Pico" width="500">
+  <br>
+  <em>Circuito interno (Raspberry Pi Pico)</em>
+</p>
+<p align="center">
+  <img src="assets/carcasa_impresa.jpg" alt="Componentes de la carcasa impresos en 3D" width="500">
+  <br>
+  <em>Componentes de la carcasa 3D</em>
+</p>
