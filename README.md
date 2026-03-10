@@ -94,3 +94,20 @@ La carpeta `/hardware_3d/` contiene los 3 archivos `.stl` necesarios para imprim
   <em>Circuito interno (Raspberry Pi Pico)</em>
 </p>
 
+## 📄 Publicación Académica  
+
+Este proyecto fue presentado en las **Memorias del 5to Congreso Internacional de Tecnología y Ciencia Aplicada (CITCA)**, realizado en Cuernavaca, Morelos, México, del 26 al 28 de noviembre de 2025.  
+El documento completo también se encuentra disponible en la carpeta `docs` de este repositorio:  
+
+<p align="center">  
+  <a href="docs/electronic_radioactive_source_simulator.pdf" target="_blank">  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="Artículo en PDF" width="120">  
+    <br><em>Electronic Radioactive Source Simulator as a Tool for Teaching Nuclear Physics</em>  
+  </a>  
+</p>  
+
+<p align="center">  
+  <a href="https://www.congresocitca.com/memorias/2025/electronic_radioactive_source_simulator.pdf" target="_blank">  
+    📎 <em>Acceso al artículo original en las Memorias del 5to Congreso Internacional de Tecnología y Ciencia Aplicada (CITCA)</em>  
+  </a>  
+</p>  
