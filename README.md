@@ -105,9 +105,3 @@ El documento completo también se encuentra disponible en la carpeta `docs` de e
     <br><em>Electronic Radioactive Source Simulator as a Tool for Teaching Nuclear Physics</em>  
   </a>  
 </p>  
-
-<p align="center">  
-  <a href="https://www.congresocitca.com/memorias/2025/electronic_radioactive_source_simulator.pdf" target="_blank">  
-    📎 <em>Acceso al artículo original en las Memorias del 5to Congreso Internacional de Tecnología y Ciencia Aplicada (CITCA)</em>  
-  </a>  
-</p>  
